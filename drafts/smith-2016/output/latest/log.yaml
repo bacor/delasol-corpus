@@ -1,0 +1,102 @@
+errors: {}
+num_errors: 0
+num_works: 8
+time_start: 2024-06-14 16:36:44.279252
+time_stop: 2024-06-14 16:36:55.423966
+works:
+  goudimel-Alto:
+    evaluation:
+      accuracy: 1.0
+      correct: 56
+      deletion: 0
+      incorrect: 0
+      insertion: 0
+      missing: 0
+      num_notes: 56
+      num_syllables: 56
+    id: goudimel-Alto
+    status: success
+  goudimel-Bass:
+    evaluation:
+      accuracy: 0.9821428571428571
+      correct: 55
+      deletion: 0
+      incorrect: 1
+      insertion: 0
+      missing: 0
+      num_notes: 56
+      num_syllables: 56
+    id: goudimel-Bass
+    status: success
+  goudimel-Soprano:
+    evaluation:
+      accuracy: 1.0
+      correct: 59
+      deletion: 0
+      incorrect: 0
+      insertion: 0
+      missing: 0
+      num_notes: 59
+      num_syllables: 59
+    id: goudimel-Soprano
+    status: success
+  goudimel-Tenor:
+    evaluation:
+      accuracy: 0.9285714285714286
+      correct: 52
+      deletion: 0
+      incorrect: 4
+      insertion: 0
+      missing: 0
+      num_notes: 56
+      num_syllables: 56
+    id: goudimel-Tenor
+    status: success
+  isaac-Alto:
+    evaluation:
+      accuracy: 0.9848484848484849
+      correct: 65
+      deletion: 0
+      incorrect: 1
+      insertion: 0
+      missing: 0
+      num_notes: 66
+      num_syllables: 66
+    id: isaac-Alto
+    status: success
+  isaac-Bass:
+    evaluation:
+      accuracy: 0.8166666666666667
+      correct: 49
+      deletion: 0
+      incorrect: 11
+      insertion: 0
+      missing: 0
+      num_notes: 60
+      num_syllables: 60
+    id: isaac-Bass
+    status: success
+  isaac-Soprano:
+    evaluation:
+      accuracy: 0.9333333333333333
+      correct: 56
+      deletion: 0
+      incorrect: 4
+      insertion: 0
+      missing: 0
+      num_notes: 60
+      num_syllables: 60
+    id: isaac-Soprano
+    status: success
+  isaac-Tenor:
+    evaluation:
+      accuracy: 1.0
+      correct: 62
+      deletion: 0
+      incorrect: 0
+      insertion: 0
+      missing: 0
+      num_notes: 62
+      num_syllables: 62
+    id: isaac-Tenor
+    status: success

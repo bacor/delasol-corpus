@@ -1,0 +1,26 @@
+title: Clement Marot & Théodore de Bèze Metrical Psalms (1562)
+editor: Anne Smith / Bas Cornelissen (b.j.m.cornelissen@uva.nl)
+license: unknown
+copyright: unknown
+source: >
+  Anne Smith TODO
+comments: >
+  None
+
+# Technicalities
+
+solmization_style: continental
+lyric_lines: 
+  - syllables
+
+# Contents
+
+works:
+  - id: goudimel-Soprano
+  - id: goudimel-Alto
+  - id: goudimel-Tenor
+  - id: goudimel-Bass
+  - id: isaac-Soprano
+  - id: isaac-Alto
+  - id: isaac-Tenor
+  - id: isaac-Bass
